@@ -1,16 +1,15 @@
 # Ion Simion Bajinaru
 
-Architecture-first product execution.
+Building production-ready MVPs.  
+Architecture-first execution.
 
-I build production-ready MVPs and ship them fast.
+## Projects
 
-## Selected projects
-
-- Ecommerce demo
-- Space tourism website
-- Task viewer
-- React color changer
-- Multi-step form
+- Ecommerce demo – frontend storefront logic
+- Space tourism website – responsive UI implementation
+- Task viewer – task interface logic
+- React color changer – component state example
+- Multi-step form – UX flow implementation
 
 ## Focus
 
