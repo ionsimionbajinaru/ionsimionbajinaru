@@ -59,9 +59,9 @@ User flow implementation for multi-step input.
 
 ## Featured Repositories
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ionsimionbajinaru&repo=e_commerce&theme=tokyonight)](https://github.com/ionsimionbajinaru/e_commerce)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ionsimionbajinaru&repo=ecommerce-demo&theme=tokyonight)](https://github.com/ionsimionbajinaru/ecommerce-demo)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ionsimionbajinaru&repo=Space_Tourism&theme=tokyonight)](https://github.com/ionsimionbajinaru/Space_Tourism)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ionsimionbajinaru&repo=space_tourism_website&theme=tokyonight)](https://github.com/ionsimionbajinaru/space_tourism_website)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ionsimionbajinaru&repo=task_viewer&theme=tokyonight)](https://github.com/ionsimionbajinaru/task_viewer)
 
