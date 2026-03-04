@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ion Simion Bajinaru
 
-<!--
-**ionsimionbajinaru/ionsimionbajinaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architecture-first product execution.
 
-Here are some ideas to get you started:
+I build production-ready MVPs and ship them fast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- Ecommerce demo
+- Space tourism website
+- Task viewer
+- React color changer
+- Multi-step form
+
+## Focus
+
+• MVP development  
+• Frontend architecture  
+• Product execution
