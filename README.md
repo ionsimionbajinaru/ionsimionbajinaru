@@ -24,14 +24,14 @@ I help founders turn ideas into working products.
 ### 🛒 Ecommerce Demo
 Frontend storefront interface and product UI.
 
-🔗 https://github.com/ionsimionbajinaru/e_commerce
+🔗 https://github.com/ionsimionbajinaru/ecommerce-demo
 
 ---
 
 ### 🚀 Space Tourism Website
 Responsive UI implementation with modern layout patterns.
 
-🔗 https://github.com/ionsimionbajinaru/Space_Tourism
+🔗 https://github.com/ionsimionbajinaru/space_tourism_website
 
 ---
 
