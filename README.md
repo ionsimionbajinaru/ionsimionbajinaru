@@ -74,6 +74,20 @@ User flow implementation for multi-step input.
 
 ---
 
+## Skills
+
+![Skills](https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode)
+
+---
+
+## Contributions
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ionsimionbajinaru&theme=tokyo-night)
+
+---
+
+
+
 ## GitHub Activity
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ionsimionbajinaru&show_icons=true&theme=tokyonight)
