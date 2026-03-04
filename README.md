@@ -76,9 +76,9 @@ User flow implementation for multi-step input.
 
 ## GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ionsimionbajinaru&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ionsimionbajinaru&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionsimionbajinaru&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ionsimionbajinaru&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ionsimionbajinaru&theme=tokyonight)
 
