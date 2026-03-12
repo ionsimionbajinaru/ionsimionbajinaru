@@ -60,6 +60,8 @@ Minimal AI tool interface with chat prompt input and clean UI.
 [![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ionsimionbajinaru&repo=ai-tool-interface&theme=tokyonight)](https://github.com/ionsimionbajinaru/ai-tool-interface)
 
 
+
+
 ## Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
