@@ -21,49 +21,43 @@ I help founders turn ideas into working products.
 
 ## Selected Projects
 
-### 🛒 Ecommerce Demo
-Frontend storefront interface and product UI.
+### ⚡ MVP Starter
+Production-ready MVP structure (landing + multi-step signup + dashboard).
 
-🔗 https://github.com/ionsimionbajinaru/ecommerce-demo
-
----
-
-### 🚀 Space Tourism Website
-Responsive UI implementation with modern layout patterns.
-
-🔗 https://github.com/ionsimionbajinaru/space_tourism_website
+🔗 https://github.com/ionsimionbajinaru/MVP-Starter
 
 ---
 
-### ✅ Task Viewer
-Interactive task interface with dynamic behavior.
+### 📊 SaaS Dashboard UI
+Modern SaaS dashboard starter (sidebar layout, UI components).
 
-🔗 https://github.com/ionsimionbajinaru/task_viewer
-
----
-
-### 🎨 React Color Changer
-Component state and UI interaction example.
-
-🔗 https://github.com/ionsimionbajinaru/color_changer_react
+🔗 https://github.com/ionsimionbajinaru/saas-dashboard-ui
 
 ---
 
-### 🧾 Multi-Step Form
-User flow implementation for multi-step input.
+### 🚀 Startup Landing Template
+Modern startup landing page template built with HTML, CSS and Vanilla JS.
 
-🔗 https://github.com/ionsimionbajinaru/Multi-step-form
+🔗 https://github.com/ionsimionbajinaru/startup-landing-template
 
 ---
+
+### 🤖 AI Tool Interface
+Minimal AI tool interface with chat prompt input and clean UI.
+
+🔗 https://github.com/ionsimionbajinaru/ai-tool-interface
+
 
 
 ## Featured Repositories
 
-[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ionsimionbajinaru&repo=ecommerce-demo&theme=tokyonight)](https://github.com/ionsimionbajinaru/ecommerce-demo)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ionsimionbajinaru&repo=MVP-Starter&theme=tokyonight)](https://github.com/ionsimionbajinaru/MVP-Starter)
 
-[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ionsimionbajinaru&repo=space_tourism_website&theme=tokyonight)](https://github.com/ionsimionbajinaru/space_tourism_website)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ionsimionbajinaru&repo=saas-dashboard-ui&theme=tokyonight)](https://github.com/ionsimionbajinaru/saas-dashboard-ui)
 
-[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ionsimionbajinaru&repo=task_viewer&theme=tokyonight)](https://github.com/ionsimionbajinaru/task_viewer)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ionsimionbajinaru&repo=startup-landing-template&theme=tokyonight)](https://github.com/ionsimionbajinaru/startup-landing-template)
+
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ionsimionbajinaru&repo=ai-tool-interface&theme=tokyonight)](https://github.com/ionsimionbajinaru/ai-tool-interface)
 
 
 ## Stack
