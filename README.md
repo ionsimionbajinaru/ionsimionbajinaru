@@ -47,7 +47,7 @@ Minimal AI tool interface with chat prompt input and clean UI.
 
 🔗 https://github.com/ionsimionbajinaru/ai-tool-interface
 
-
+---
 
 ## Featured Repositories
 
