@@ -1,5 +1,5 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ion%20Simion%20Băjinaru&fontSize=40&fontColor=ffffff)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Production-Ready+MVPs;Architecture-First+Development;Frontend+Product+Interfaces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&duration=3500&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Conversion+Engineering;Conversion-First+Systems;High-Performance+Funnels)](https://git.io/typing-svg)
 
 # Ion Simion Băjinaru
 
