@@ -3,19 +3,19 @@
 
 # Ion Simion Băjinaru
 
-Building MVPs for founders.  
-Product-focused developer.
+Building conversion systems for founders.
+Conversion-first product architect.
 
 ---
 
 ## What I Do
 
-I help founders turn ideas into working products.
+I help founders turn ideas into conversion systems.
 
-• MVP development  
-• Frontend architecture  
-• Product interfaces  
-• Rapid product execution
+• Conversion architecture
+• High-converting interfaces
+• Funnel & product systems
+• Rapid conversion execution
 
 ---
 
